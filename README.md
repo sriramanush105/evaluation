@@ -5,7 +5,8 @@ PART 1
 
 The files utilised for part 1 question 2 are updated in the repo rating validator https://github.com/sriramanush105/rating_validator
 
-and the deployment link is http://sriramanush.pythonanywhere.com/
+and the deployment link is http://sriramanush.pythonanywhere.com/ The site hosted by pythonanywhere and deployed using django framework.
+Where the files related are in the above rating validator repo
 
 PART 2
 
